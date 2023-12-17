@@ -4,7 +4,7 @@ This repository contains a JSON file listing various countries along with their 
 
 ## File Structure
 
-- `countries.json`: JSON file containing a list of countries with their currencies and short names.
+- `World_Currency`: JSON file containing a list of countries with their currencies and short names.
 
 ## Data Format
 
